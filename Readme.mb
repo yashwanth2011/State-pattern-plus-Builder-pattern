@@ -1,0 +1,4 @@
+Every other alternative user is considered as a winner.
+Winner will be gifted with natural sunblock.
+Each time a winner is decided we build a new Natural sunblock and dispatch that.
+We use builder pattern to build this natural sunblock.
